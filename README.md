@@ -213,29 +213,23 @@ santhosh@platform:~$ which -a $(cat tools.list)
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=santhosh-sathishkumar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api?username=santhosh-sathishkumar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400&theme=chartreuse-dark&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&bg_color=0d1117"
     alt="stats"
   />
   <img
     height="180"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=santhosh-sathishkumar&hide_border=true&background=0d1117&stroke=00ff9c&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=c9d1d9"
+    src="https://streak-stats.demolab.com?user=santhosh-sathishkumar&hide_border=true&background=0d1117&stroke=00ff9c&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=c9d1d9"
     alt="streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-sathishkumar&layout=compact&hide_border=true&langs_count=10&theme=chartreuse-dark&title_color=00ff9c&text_color=c9d1d9&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-sathishkumar&layout=compact&hide_border=true&langs_count=10&cache_seconds=86400&theme=chartreuse-dark&title_color=00ff9c&text_color=c9d1d9&bg_color=0d1117"
     alt="top langs"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=santhosh-sathishkumar&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=00ff9c&hide_border=true&custom_title=Contribution%20activity"
-    alt="activity graph"
-  />
-</p>
 
 ---
 
