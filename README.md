@@ -173,23 +173,27 @@ santhosh@platform:~$ which -a $(cat tools.list)
 
 ## 📈 `~/stats`
 
+<!--
+  ⚠️  github-readme-stats.vercel.app is currently paused by its owner (503).
+  Using shields.io metric badges as a reliable fallback.
+  To restore the fancy card later, deploy your own instance from
+  https://github.com/anuraghazra/github-readme-stats (see DEPLOY.md)
+  and replace the URLs below with:
+    https://<your-project>.vercel.app/api?username=santhosh-sathishkumar&...
+-->
+
 <p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=santhosh-sathishkumar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400&theme=chartreuse-dark&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&bg_color=0d1117"
-    alt="stats"
-  />
-  <img
-    height="180"
-    src="https://streak-stats.demolab.com?user=santhosh-sathishkumar&hide_border=true&background=0d1117&stroke=00ff9c&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=c9d1d9"
-    alt="streak"
-  />
+  <img src="https://img.shields.io/github/followers/santhosh-sathishkumar?style=for-the-badge&logo=github&label=FOLLOWERS&color=00ff9c&labelColor=0d1117" alt="followers" />
+  <img src="https://img.shields.io/github/stars/santhosh-sathishkumar?affiliations=OWNER&style=for-the-badge&logo=github&label=TOTAL%20STARS&color=00ff9c&labelColor=0d1117" alt="stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/santhosh-sathishkumar&query=%24.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&logo=github&color=00ff9c&labelColor=0d1117" alt="repos" />
+  <img src="https://komarev.com/ghpvc/?username=santhosh-sathishkumar&style=for-the-badge&label=PROFILE%20VIEWS&color=00ff9c&labelColor=0d1117" alt="views" />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-sathishkumar&layout=compact&hide_border=true&langs_count=10&cache_seconds=86400&theme=chartreuse-dark&title_color=00ff9c&text_color=c9d1d9&bg_color=0d1117"
-    alt="top langs"
+    height="180"
+    src="https://streak-stats.demolab.com?user=santhosh-sathishkumar&hide_border=true&background=0d1117&stroke=00ff9c&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=c9d1d9"
+    alt="streak"
   />
 </p>
 
@@ -224,13 +228,26 @@ santhosh@platform:~$ which -a $(cat tools.list)
 <!-- 🏆 TROPHIES                                                   -->
 <!-- ────────────────────────────────────────────────────────────── -->
 
-## 🏆 `~/trophies`
+## 🏆 `~/achievements`
+
+<!--
+  ⚠️  github-profile-trophy.vercel.app is currently returning 402
+  (Vercel bandwidth exhausted on the shared deployment).
+  Using shields.io badges as a reliable fallback.
+  To restore the trophy card later, deploy your own copy from
+  https://github.com/ryo-ma/github-profile-trophy (see DEPLOY.md).
+-->
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=santhosh-sathishkumar&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"
-    alt="trophies"
-  />
+  <img src="https://img.shields.io/badge/☸️_Kubernetes-Certified_Mindset-00ff9c?style=for-the-badge&labelColor=0d1117" alt="k8s" />
+  <img src="https://img.shields.io/badge/📊_Observability-Grafana_Stack-00ff9c?style=for-the-badge&labelColor=0d1117" alt="obs" />
+  <img src="https://img.shields.io/badge/⚙️_IaC-Terraform_%2B_Helm-00ff9c?style=for-the-badge&labelColor=0d1117" alt="iac" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_GitOps-Argo_%2F_Flux-00ff9c?style=for-the-badge&labelColor=0d1117" alt="gitops" />
+  <img src="https://img.shields.io/badge/🔐_Secure_by_Design-Zero_Trust-00ff9c?style=for-the-badge&labelColor=0d1117" alt="sec" />
+  <img src="https://img.shields.io/badge/📈_SLO_driven-99.9%25_uptime-00ff9c?style=for-the-badge&labelColor=0d1117" alt="slo" />
 </p>
 
 ---
