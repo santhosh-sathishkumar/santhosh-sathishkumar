@@ -183,10 +183,10 @@ santhosh@platform:~$ which -a $(cat tools.list)
 -->
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/santhosh-sathishkumar?style=for-the-badge&logo=github&label=FOLLOWERS&color=00ff9c&labelColor=0d1117" alt="followers" />
-  <img src="https://img.shields.io/github/stars/santhosh-sathishkumar?affiliations=OWNER&style=for-the-badge&logo=github&label=TOTAL%20STARS&color=00ff9c&labelColor=0d1117" alt="stars" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/santhosh-sathishkumar&query=%24.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&logo=github&color=00ff9c&labelColor=0d1117" alt="repos" />
-  <img src="https://komarev.com/ghpvc/?username=santhosh-sathishkumar&style=for-the-badge&label=PROFILE%20VIEWS&color=00ff9c&labelColor=0d1117" alt="views" />
+  <img src="https://img.shields.io/github/followers/santhosh-sathishkumar?style=for-the-badge&logo=github&label=FOLLOWERS&color=0d7a4f&labelColor=0d1117" alt="followers" />
+  <img src="https://img.shields.io/github/stars/santhosh-sathishkumar?affiliations=OWNER&style=for-the-badge&logo=github&label=TOTAL%20STARS&color=0d7a4f&labelColor=0d1117" alt="stars" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/santhosh-sathishkumar&query=%24.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&logo=github&color=0d7a4f&labelColor=0d1117" alt="repos" />
+  <img src="https://komarev.com/ghpvc/?username=santhosh-sathishkumar&style=for-the-badge&label=PROFILE%20VIEWS&color=0d7a4f&labelColor=0d1117" alt="views" />
 </p>
 
 <p align="center">
@@ -199,7 +199,7 @@ santhosh@platform:~$ which -a $(cat tools.list)
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=santhosh-sathishkumar&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=00ff9c&hide_border=true&custom_title=Contribution%20activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=santhosh-sathishkumar&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=00ff9c&hide_border=true&custom_title=Contribution%20activity&v=2"
     alt="activity graph"
   />
 </p>
@@ -239,15 +239,15 @@ santhosh@platform:~$ which -a $(cat tools.list)
 -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/☸️_Kubernetes-Certified_Mindset-00ff9c?style=for-the-badge&labelColor=0d1117" alt="k8s" />
-  <img src="https://img.shields.io/badge/📊_Observability-Grafana_Stack-00ff9c?style=for-the-badge&labelColor=0d1117" alt="obs" />
-  <img src="https://img.shields.io/badge/⚙️_IaC-Terraform_%2B_Helm-00ff9c?style=for-the-badge&labelColor=0d1117" alt="iac" />
+  <img src="https://img.shields.io/badge/☸️_Kubernetes-Certified_Mindset-0d7a4f?style=for-the-badge&labelColor=0d1117" alt="k8s" />
+  <img src="https://img.shields.io/badge/📊_Observability-Grafana_Stack-0d7a4f?style=for-the-badge&labelColor=0d1117" alt="obs" />
+  <img src="https://img.shields.io/badge/⚙️_IaC-Terraform_%2B_Helm-0d7a4f?style=for-the-badge&labelColor=0d1117" alt="iac" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀_GitOps-Argo_%2F_Flux-00ff9c?style=for-the-badge&labelColor=0d1117" alt="gitops" />
-  <img src="https://img.shields.io/badge/🔐_Secure_by_Design-Zero_Trust-00ff9c?style=for-the-badge&labelColor=0d1117" alt="sec" />
-  <img src="https://img.shields.io/badge/📈_SLO_driven-99.9%25_uptime-00ff9c?style=for-the-badge&labelColor=0d1117" alt="slo" />
+  <img src="https://img.shields.io/badge/🚀_GitOps-Argo_%2F_Flux-0d7a4f?style=for-the-badge&labelColor=0d1117" alt="gitops" />
+  <img src="https://img.shields.io/badge/🔐_Secure_by_Design-Zero_Trust-0d7a4f?style=for-the-badge&labelColor=0d1117" alt="sec" />
+  <img src="https://img.shields.io/badge/📈_SLO_driven-99.9%25_uptime-0d7a4f?style=for-the-badge&labelColor=0d1117" alt="slo" />
 </p>
 
 ---
