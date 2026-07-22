@@ -19,10 +19,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=santhosh-sathishkumar&label=Visitors&color=00ff9c&style=flat-square" alt="visitors" />
-  <img src="https://img.shields.io/github/followers/santhosh-sathishkumar?label=Followers&style=flat-square&color=00ff9c" alt="followers" />
-  <img src="https://img.shields.io/badge/Focus-Platform%20Engineering-00ff9c?style=flat-square" alt="focus" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-00ff9c?style=flat-square" alt="collab" />
+  <img src="https://komarev.com/ghpvc/?username=santhosh-sathishkumar&label=Visitors&color=0d7a4f&style=flat-square&labelColor=0d1117" alt="visitors" />
+  <img src="https://img.shields.io/github/followers/santhosh-sathishkumar?label=Followers&style=flat-square&color=0d7a4f&labelColor=0d1117" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Platform%20Engineering-0d7a4f?style=flat-square&labelColor=0d1117" alt="focus" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-0d7a4f?style=flat-square&labelColor=0d1117" alt="collab" />
 </p>
 
 ---
