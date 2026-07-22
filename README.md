@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/santhosh-sathishkumar">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&multiline=true&width=760&height=100&lines=%24+whoami+%E2%86%92+Santhosh+S;%24+role+%E2%86%92+Platform+Engineer+%40+Cloud+Native;%24+mission+%E2%86%92+build+platforms+that+devs+love+%F0%9F%9A%80;%24+motto+%E2%86%92+automated+by+default%2C+secure+by+design"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00FF9C&center=true&vCenter=true&width=760&height=70&lines=%24+whoami+%E2%86%92+Santhosh+S;%24+role+%E2%86%92+Platform+Engineer+%40+Cloud+Native;%24+mission+%E2%86%92+build+platforms+devs+love+%F0%9F%9A%80;%24+motto+%E2%86%92+automated+%C2%B7+secure+%C2%B7+simple"
       alt="typing"
     />
   </a>
